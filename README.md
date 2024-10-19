@@ -1,5 +1,5 @@
 # NEA2019
-Final Python Project for my six form (Chess Game)
+Final Python Project for my sixth form (Chess Game)
 
 Simple Chess game where a player plays against a basic chess AI
 
